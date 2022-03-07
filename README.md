@@ -1,2 +1,2 @@
-# FirstRepo
+# photoOrganizer
 JavaProgram
